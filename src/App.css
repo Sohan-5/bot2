@@ -1,0 +1,8 @@
+.botui {
+	text-align: center;
+	background-color: #dde1eb;
+	min-height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
